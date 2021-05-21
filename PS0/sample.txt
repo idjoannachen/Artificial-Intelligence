@@ -1,0 +1,10 @@
+cat,c1,1,95,
+dog,d 1,100,90,
+dog,d2,90,59,
+pig,pig_1,2,60,
+pig,pig_2,3,60,
+chinchilla,c1,100,49,
+chinchilla,c2,90,15,
+chinchilla,c3,95,79,
+capybara,c1,79,3,
+
